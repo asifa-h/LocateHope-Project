@@ -288,7 +288,7 @@ Contributions are welcome.
 
 ## 🧩 Author
 
-**Asifa Hiddayat**
+**Asifa H**
 
 📧 [asifa.h.2024.aiml@rajalakshmi.edu.in](mailto:asifa.h.2024.aiml@rajalakshmi.edu.in)
 
